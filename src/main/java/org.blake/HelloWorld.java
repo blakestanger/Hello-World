@@ -7,7 +7,7 @@ public class HelloWorld
 
     }
 
-    public void NothingHappens(){
-        //nothing happens.
+    public void doNothing(){
+        //does nothing
     }
 }
