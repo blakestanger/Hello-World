@@ -6,4 +6,8 @@ public class HelloWorld
         System.out.println("helloworld!");
 
     }
+
+    public void doNothing(){
+        //does nothing
+    }
 }
