@@ -13,5 +13,7 @@ public class HelloWorld
 
     public void doNothing(){
         //does nothing
+        int a = 0;
+        System.out.println(a);
     }
 }
