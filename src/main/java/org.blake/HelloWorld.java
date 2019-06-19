@@ -7,6 +7,10 @@ public class HelloWorld
 
     }
 
+    public void doesSomething(){
+    System.out.println("1");
+    }
+
     public void doNothing(){
         //does nothing
     }
